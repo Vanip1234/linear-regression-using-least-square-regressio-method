@@ -1,1 +1,1 @@
-# linear-regression-using-least-square-regressio-method
+# linear-regression-using-least-square-regression-method
